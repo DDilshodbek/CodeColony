@@ -1,0 +1,55 @@
+# Unity-generated caches and local settings
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Build output
+/[Bb]uild/
+/[Bb]uilds/
+
+# IDE settings and generated project files
+/.vs/
+/.vscode/
+/.idea/
+/.gradle/
+/ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# Unity crash reports
+/sysinfo.txt
+/mono_crash.*
+
+# Generated Addressables content
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa/
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+
+# IDE plugins installed automatically by Unity
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Operating system files
+.DS_Store
+.DS_Store.meta
+._*
+Thumbs.db
+Thumbs.db.meta
+Desktop.ini
+
+# Keep Assets (including .meta files), Packages, and ProjectSettings tracked.
